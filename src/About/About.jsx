@@ -23,7 +23,9 @@ function About() {
             <h2>Most trusted ride hailing
               <br /> company in Nigeria </h2>
             <p>
-            Quicklift: Revolutionizing transportation in Nigeria, one ride at a time, with safe, reliable, and affordable cab services at your doorstep
+              At BigitalTech, we empower entrepreneurs, freelancers, and small businesses to 
+              position themselves for global success. Whether you're looking to register an LLC abroad, set up Stripe for international payments, or position your brand online
+               for global visibility, we’re here to make it happen — seamlessly and legally.
             </p>
           </div>
           <div className="a-lower">

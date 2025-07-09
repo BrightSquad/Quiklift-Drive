@@ -1,5 +1,5 @@
 .h-container{
-    background-color: black;
+    background-color: #190365;
     color: white;
     display: flex;
     position: relative;
@@ -21,7 +21,7 @@
   
   .downloadbtn{
     background-color: transparent;
-    color: white;
+    color: whitesmoke;
     font-size: 18px;
     font-weight: 600;
   }
@@ -51,7 +51,7 @@
   }
   
   .h-nav>:last-child button{
-    border: 3px solid #0031AE;
+    border: 3px solid #001BFF;
     border-radius: 20px;
     align-self: center;
     padding: 10px 25px;

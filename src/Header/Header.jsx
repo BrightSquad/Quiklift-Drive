@@ -43,6 +43,7 @@
 import './Header.css'
 import { GiHamburgerMenu } from "react-icons/gi";
 import { MdClose } from "react-icons/md"; // Add this import
+import logo from '../assets/images/bigital logo.png';
 
 import React, { useState } from 'react';
 
@@ -59,14 +60,15 @@ const Header = () => {
   return (
     <div className="h-wrapper">
       <div className="h-container">
-        <div className="h-logo">QuickLift</div>
+        <div className="h-logo"> Bigital   </div>
+        
         <div className="h-nav" style={getMenuStyles(menuOpen)}>
           <span><a href="#hero-wrapper">Home</a></span>
           <span><a href="#a-wrapper">About</a> </span>
           <span ><a href="#f-wrapper">Contact</a></span>
           <span >
            <a href="https://play.google.com/"> <button className='downloadbtn'>
-            Download           
+            Get Started            
             </button></a> 
           </span>
         </div>

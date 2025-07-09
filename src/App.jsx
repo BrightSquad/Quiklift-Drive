@@ -16,7 +16,7 @@ function App() {
      <Hero/>
      <About/>
       <SignUp/>  
-      <How/>
+      <How/> 
       <Comment/>
      <Download/>
      <Footer/>
